@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "PHP"
+  },
+  {
+    "id": 2,
+    "name": "Express js"
+  },
+  {
+    "id": 3,
+    "name": "Data type"
+  },
+  {
+    "id": 4,
+    "name": "Skills"
+  },
+  {
+    "id": 5,
+    "name": "Web development"
+  },
+  {
+    "id": 6,
+    "name": "Full stack development"
+  }
+]
