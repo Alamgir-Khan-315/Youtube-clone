@@ -2,6 +2,8 @@ import React, { useState } from 'react'
 import Data from './Data/data.json'
 import { Link } from 'react-router-dom'
 
+import { IoIosMore } from "react-icons/io";
+
 const mob_video = () => {
 
     const [video, setvideo] = useState(localStorage.getItem("video"))
@@ -38,8 +40,8 @@ const mob_video = () => {
                                         </div>
                                     </div>
 
-                                    <div className="menu absolute right-5 flex md:hidden">
-                                        menu
+                                    <div className="menu absolute right-5 flex">
+                                        < IoIosMore />
                                     </div>
 
 
