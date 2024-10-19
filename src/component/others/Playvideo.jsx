@@ -22,9 +22,9 @@ const Playvideo = () => {
                 </div>
 
                 <div className="details my-2 p-1">
-                    <div className="video-time      md:hidden">
+                    <div className="video-time">
                         <h1 className='text-xl font-bold'>{videoData[1]}</h1>
-                        <div className="subscribe">{videoData[2]} <span className='mx-2'> {videoData[3]}</span> <span className='font-bold'>...more</span></div>
+                        <div className="subscribe       md:hidden">{videoData[2]} <span className='mx-2'> {videoData[3]}</span> <span className='font-bold'>...more</span></div>
                     </div>
 
                     <div className="yt-sub-grp-md-flex md:flex md:justify-between">

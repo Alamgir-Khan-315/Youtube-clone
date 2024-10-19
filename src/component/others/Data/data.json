@@ -3,16 +3,16 @@
     "id": 1,
     "thumbnail": "thumbnail",
     "Logo": "logo",
-    "title": "Title",
-    "ytname": "YT name",
-    "views": "316 views",
+    "title": "Learn Mern",
+    "ytname": "Code with me",
+    "views": "1M views",
     "time": "1 hour before"
   },
   {
     "id": 2,
     "thumbnail": "thumbnail",
     "Logo": "logo",
-    "title": "Title",
+    "title": "The Boyz",
     "ytname": "YT name",
     "views": "316 views",
     "time": "1 hour before"
@@ -21,7 +21,7 @@
     "id": 3,
     "thumbnail": "thumbnail",
     "Logo": "logo",
-    "title": "Title",
+    "title": "Photoshop design",
     "ytname": "YT name",
     "views": "316 views",
     "time": "1 hour before"
@@ -30,9 +30,9 @@
     "id": 4,
     "thumbnail": "thumbnail",
     "Logo": "logo",
-    "title": "Title",
-    "ytname": "YT name",
-    "views": "316 views",
+    "title": "Learn react in 1 hour",
+    "ytname": "Codit",
+    "views": "2M views",
     "time": "1 hour before"
   },
   {
